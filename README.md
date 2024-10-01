@@ -1,7 +1,5 @@
 # Handling Imbalanced Datasets with SMOTE Variants
 
-![Open in Colab](https://colab.research.google.com/drive/1PoDYyZ5Yg7jqFI1i9EqVX30b4l4uCIfL#scrollTo=VOIFPz1sqMdC)
-
 ## Overview
 
 This project explores the application of advanced SMOTE (Synthetic Minority Over-sampling Technique) algorithms—**Borderline-SMOTE**, **Borderline-SMOTE2**, and **CURE SMOTE**—to effectively address classification challenges in imbalanced datasets. By implementing machine learning models such as **Random Forest** and **K-Nearest Neighbors**, this study evaluates the performance improvements achieved through these oversampling techniques across three diverse datasets:
